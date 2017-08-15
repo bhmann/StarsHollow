@@ -1,0 +1,35 @@
+[
+{
+"name": ,
+"url": ,
+"web-platform": ,
+"mobile-platform": ,
+"user-base": ,
+"active": ,
+"overview": ,
+"business-model": ,
+"other-notes": ,
+},
+{
+"name":"NextDoor" ,
+"url": "http://www.nextdoor.com",
+"web-platform":"yes" ,
+"mobile-platform": "yes",
+"user-base":"100,000 neighborhoods; Estimated 700,000 daily active users; Estimated 1,500,000-10,000,000 total users" ,
+"active": "yes",
+"overview": ,
+"business-model": "monetizing via real-estate ads;Until 2017, Nextdoor had been entirely funded by venture capital firms including Benchmark, Greylock Partners, Kleiner Perkins Caufield & Byers, Tiger Global Management and others. Recently, we have begun testing sponsored content from a select group of businesses who we believe have valuable products and services to share with Nextdoor's members. We have always believed that there is a tremendous opportunity to connect neighbors with businesses that serve the local community. Testing sponsored posts will help us achieve this goal while generating the revenue we need to create a sustainable business. As always, protecting your privacy is paramount for us. Participating businesses will not have access to your neighborhood conversations or the directory. They will only be able to see and reply to comments on their own posts and messages neighbors choose to share with them. To learn more, please see our Privacy Policy." ,
+"other-notes": ,
+},
+{
+"name": ,
+"url": ,
+"web-platform": ,
+"mobile-platform": ,
+"user-base": ,
+"active": ,
+"overview": ,
+"business-model": ,
+"other-notes": ,
+}
+]

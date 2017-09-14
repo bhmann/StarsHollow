@@ -22,14 +22,14 @@
 "other-notes": ,
 },
 {
-"name": ,
-"url": ,
-"web-platform": ,
-"mobile-platform": ,
-"user-base": ,
-"active": ,
-"overview": ,
-"business-model": ,
-"other-notes": ,
+"name": "Topix" ,
+"url": "www.topix.com",
+"web-platform":"yes" ,
+"mobile-platform": "yes",
+"user-base": "13 million",
+"active": "yes",
+"overview": "Topix is a technology company focusing on entertainment and news media. Every month, more than 18 million highly engaged users spend an average of 13 minutes per session browsing Topix's growing collection of high quality content about celebrities, pop culture, the offbeat, health, current events, and more.",
+"business-model": "ads",
+"other-notes": "troll friendly, un-loyal user base",
 }
 ]
